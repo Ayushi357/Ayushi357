@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ayushi Agrawal</h1>
-<h3 align="center">Self-motivated individual with a desire to learn new things. Passionate about Software Engineering and Web Development. Proficient in front-end and back-end development. Well versed with Data structures and Algorithms, OOPs, SQL. Currently pursuing my Masters in Computer Science and Engineering from Penn State University.</h3>
+<h3 align="center">I am a Masters student at Penn State University studying Computer Science and Engineering. I have experience as a Full-Stack Developer intern at a startup and am currently working as a Graduate Teaching Assistant for a course on Data Structures and Algorithms. I am passionate about web development and enjoy the process of building user-friendly websites from start to finish. I have a strong foundation in frontend frameworks and have experience taking ownership of projects from design to coding. I am looking for opportunities to apply my skills and continue growing as a developer.</h3>
 
 - 🔭 I’m currently looking for **Software Engineering Full-time jobs**
 
